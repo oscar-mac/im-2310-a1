@@ -1,12 +1,13 @@
 body {
     margin-left: 50px;
     max-width: 1000px;
+    font-family: AkzidenzGrotesk;
+    src: url("font-family/"Akzidenz-grotesk-roman.ttf") format('truetype');
 }
 
 
 h1, h2, h3, h4, section {
-    font-family: AkzidenzGrotesk;
-    src: url("font-family/"Akzidenz-grotesk-roman.ttf") format('truetype');
+    
     font-weight: normal;
     font-size: 30px;
 }
