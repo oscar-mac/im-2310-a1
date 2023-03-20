@@ -7,7 +7,7 @@ body {
     font-weight: normal;
     font-size: 30px;
     font-family: AkzidenzGrotesk;
-    src: url("font-family/"Akzidenz-grotesk-roman.ttf") format('truetype');
+    src: url("font-family/"Akzidenz-grotesk-roman.ttf") format('truetype'); /* WHY DOES FONT NOT APPLY TO SAFARI BUT WORKS ON FIREFOX AND CHROME? */
 }
 
 /* TODO: GET BELOW CODE WORKING */
