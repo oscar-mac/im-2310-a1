@@ -14,3 +14,7 @@ body {
     border-top: 5px solid #black;
 }
  */
+
+ul {
+    list-style-image: url("ellipse.png");
+}
