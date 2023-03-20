@@ -9,7 +9,3 @@ body {
     font-family: AkzidenzGrotesk;
     src: url("font-family/"Akzidenz-grotesk-roman.ttf") format('truetype');
 }
-
-ul {
-    list-style-image: url("ellipse.png");
-}
