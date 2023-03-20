@@ -9,4 +9,5 @@ h1, h2, h3, h4, section {
     src: url("font-family/"Akzidenz-grotesk-roman.ttf") format('truetype');
     font-weight: normal;
     font-size: 30px;
+    list-style-image: url("ellipse.png");
 }
