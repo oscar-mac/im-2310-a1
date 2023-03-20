@@ -11,3 +11,7 @@ h1, h2, h3, h4, section {
     font-size: 30px;
     list-style-image: url("ellipse.png");
 }
+
+#main-list {
+    list-style-image: url("ellipse.png");
+}
