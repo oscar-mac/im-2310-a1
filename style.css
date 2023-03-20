@@ -9,3 +9,7 @@ body {
     font-family: AkzidenzGrotesk;
     src: url("font-family/"Akzidenz-grotesk-roman.ttf") format('truetype');
 }
+
+hr {
+    border-top: 5px solid #black;
+}
